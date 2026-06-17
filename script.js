@@ -7,14 +7,14 @@
 // ║                                                                   ║
 // ║   Change at least ONE value below before you deploy your fork.   ║
 // ║   Required for the workshop:                                     ║
-// ║     1. playerName  → your own name                                ║
-// ║     2. gameTitle   → your own game title                          ║
-// ║     3. snakeSpeed  → try a different number                       ║
+// ║     1. playerName  → Kavishanjali                                ║
+// ║     2. gameTitle   → snake                          ║
+// ║     3. snakeSpeed  → 150                       ║
 // ╚═══════════════════════════════════════════════════════════════════╝
 
 const GAME_CONFIG = {
-  playerName: "Space Explorer",   // 👈 put YOUR name here
-  gameTitle: "AI Space Snake",    // 👈 invent your own title
+  playerName: "Kvishanjali",   // 👈 put YOUR name here
+  gameTitle: "Snake Game",    // 👈 invent your own title
 
   snakeSpeed: 220,        // milliseconds per move. BIGGER = SLOWER. Try 260 for easy mode, 140 for fast!
   pointsPerCrystal: 10,   // score for each crystal collected
